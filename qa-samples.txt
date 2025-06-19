@@ -1,0 +1,94 @@
+Question: Who is Neil Armstrong?
+Correct Answer: Neil Armstrong was the first person to walk on the Moon.
+My System Answer:Neil Alden Armstrong (August 5, 1930 – August 25, 2012) was an American astronaut and aeronautical engineer who, in 1969, became the first person to walk on the Moon.
+
+
+Question: Who is Albert Einstein?
+Correct Answer: Albert Einstein was a theoretical physicist known for developing the theory of relativity.
+My System Answer: Albert Einstein (14 March 1879 – 18 April 1955) was a German-born theoretical physicist who is best known for developing the theory of relativity.
+
+
+Question: Who is Cleopatra?
+Correct Answer: Cleopatra was the last active ruler of the Ptolemaic Kingdom of Egypt.
+My System Answer: Cleopatra VII Thea Philopator (Koinē Greek: Κλεοπάτρα Θεά Φιλοπάτωρ, lit.
+
+
+Question: Who is Ada Lovelace?
+Correct Answer: Ada Lovelace was a mathematician and is considered the first computer programmer.
+My System Answer: Augusta Ada King, Countess of Lovelace (née Byron; 10 December 1815 – 27 November 1852), also known as Ada Lovelace, was an English mathematician and writer chiefly known for her work on Charles Babbage's proposed mechanical general-purpose computer, the Analytical Engine.
+
+Question: Who is Malala Yousafzai?
+Correct Answer: Malala Yousafzai is an activist for female education and the youngest Nobel Prize laureate.
+My System Answer: Malala Yousafzai (Urdu: ملالہ یوسفزئی; Pashto: ملاله یوسفزۍ, pronunciation: [məˈlaːlə jusəf ˈzəj]; born 12 July 1997) is a Pakistani female education activist, film and television producer, and the 2014 Nobel Peace Prize laureate at the age of 17.
+
+
+
+Question: What is electron?
+Correct Answer: Electron is subatomic particle.
+My System Answer: The electron (e−, or β− in nuclear reactions) is a subatomic particle with a negative one elementary electric charge.
+
+Question: What is lemon?
+Correct Answer: Lemon is a fruit.
+My System Answer: The lemon (Citrus × limon) is a species of small evergreen tree in the Citrus genus of the flowering plant family Rutaceae.
+
+Question: What is duck?
+Correct Answer: A duck is a bird
+My System Answer: Duck is the common name for numerous species of waterfowl in the family Anatidae.
+
+Question: What is truck?
+Correct Answer: A truck is a vehicle.
+My System Answer: A truck or lorry is a motor vehicle designed to transport freight, carry specialized payloads, or perform other utilitarian work.
+
+Question: What is rtx-4090?
+Correct Answer: RTX-4090 is a graphics card.
+My System Answer: The GeForce RTX 40 series is a family of consumer graphics processing units (GPUs) developed by Nvidia as part of its GeForce line of graphics cards, succeeding the GeForce RTX 30 series.
+
+
+Question: When did the Apollo 11 mission land on the Moon?
+Correct Answer: July 20, 1969.
+My System Answer: While the exact date is unclear, it appears The Apollo 11 Mission Land On The Moon was born in 1959.
+
+
+Question: When was the Declaration of Independence adopted?
+Correct Answer: July 4, 1776.
+My System Answer: While the exact date is unclear, it appears The Declaration Of Independence Adopted was established in March 2, 1836.
+
+
+Question: When did the Berlin Wall fall?
+Correct Answer: November 9, 1989.
+My System Answer: While the exact date is unclear, it appears The Berlin Wall Fall was established in 1961.
+
+
+Question: When was the first iPhone released?
+Correct Answer: June 29, 2007.
+My System Answer: The First Iphone Released was established on September 14, 2018.
+
+
+Question: When did World War II end?
+Correct Answer: September 2, 1945.
+My System Answer: While the exact date is unclear, it appears World War Ii End was established in 1 September 1939.
+
+
+Question: Where is the Great Barrier Reef located?
+Correct Answer: Off the northeastern coast of Australia, in the Coral Sea.
+My System Answer: The reef is located in the Coral Sea, off the coast of Queensland, Australia, separated from the coast by a channel 160 kilometres (100 mi) wide in places and over 61 metres (200 ft) deep.
+
+
+Question: Where was the ancient city of Troy believed to be situated?
+Correct Answer: In modern-day northwestern Turkey, near the Dardanelles.
+My System Answer: Located where the legendary birth of Aphrodite took place, it has been referred to as the main sanctuary of Aphrodite, and was a place of pilgrimages in the ancient world for centuries.
+
+
+Question: Where is Mount Everest?
+Correct Answer: On the border between Nepal and the Tibet Autonomous Region of China.
+My System Answer: Mount Everest (), known locally as Sagarmatha  in Nepal and Qomolangma in Tibet, is Earth's highest mountain above sea level.
+
+
+Question: Where did the Renaissance begin?
+Correct Answer: In Florence, Italy, in the 14th century.
+My System Answer: By the early 15th century, an international search for ancient manuscripts was underway and would continue unabated until the Fall of Constantinople in 1453, when many Byzantine scholars had to seek refuge in the West, particularly Italy.
+
+
+Question: Where is the headquarters of the United Nations?
+Correct Answer: In New York City, United States.
+My System Answer: The headquarters of the United Nations (UN) is on 17 to 18 acres (6.9 to 7.3 ha) of grounds in the Turtle Bay neighborhood of Midtown Manhattan in New York City.
